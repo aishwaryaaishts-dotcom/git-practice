@@ -4,7 +4,7 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Aishwarya
+# Author: Aishwarya R
 # Additional Authors:
 # aishwaryaaishts-dotcom
 
